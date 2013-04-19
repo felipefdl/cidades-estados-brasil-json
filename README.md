@@ -1,4 +1,4 @@
-cidades-estados-json
+Cidades Estados do Brasil em JSON
 ====================
 
-Lista de estados e cidades do Brasil em JSON com ID relacionado.
+Array de estados (com acentos) e cidades(com acentos) do Brasil em JSON com ID relacionado.
